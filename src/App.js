@@ -8,7 +8,6 @@ import TopHeadline from './components/TopHeadline/TopHeadline';
 function App() {
   return (
     <div className="bordered">
-
       <Header></Header>
       <TopHeadline></TopHeadline>
     </div>
